@@ -10,7 +10,7 @@ class GenderCirlce extends StatelessWidget {
       width: circleSize(context),
       height: circleSize(context),
       decoration: const BoxDecoration(
-          shape: BoxShape.circle, color: Color.fromRGBO(244, 244, 244, 1.0)),
+          shape: BoxShape.circle, color: Color.fromRGBO(80, 80, 183, 1)),
     );
   }
 }
